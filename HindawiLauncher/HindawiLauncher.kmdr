@@ -43,7 +43,7 @@
             </font>
         </property>
         <property name="text">
-            <string>Copyright (C) 2006 Abhishek Choudhary. GNU GPL V2. NO WARRANTY.</string>
+            <string>Copyright (C) 2003-2023 Abhishek Choudhary</string>
         </property>
         <property name="toolTip" stdset="0">
             <string>संपर्क करें : ई-मेल - choudhary@indicybers.net मोबाईल - +91-9980340138</string>

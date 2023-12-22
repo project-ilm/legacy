@@ -1,5 +1,5 @@
 /*
-Copyright (C) 2003,2004,2005,2006 Abhishek Choudhary
+Copyright (C) 2003-2023 Abhishek Choudhary
 This file is part of the AP Code for Indian Script Representation.
 
 The AP Code for Indian Script Representation is free software; 

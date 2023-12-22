@@ -1,5 +1,5 @@
 /*
-Copyright (C) 2003-2021 Abhishek Choudhary
+Copyright (C) 2003-2023 Abhishek Choudhary
 This file is part of the Romenagri Transliteration System.
 
 The Romenagri Transliteration System is free software; 

@@ -1428,7 +1428,7 @@
         </property>
         <property name="text">
             <string>रोमनागरी अनुवादन प्रणाली
-Copyright (C) 2006 Abhishek Choudhary
+Copyright (C) 2003-2023 Abhishek Choudhary
 GNU GPL V2. NO WARRANTY.</string>
         </property>
         <property name="alignment">

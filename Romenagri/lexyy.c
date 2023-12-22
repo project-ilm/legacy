@@ -452,7 +452,7 @@ char *yytext;
 #line 2 "rmn2acii.lex"
 
 /*
-Copyright (C) 2003,2004,2005,2006 Abhishek Choudhary
+Copyright (C) 2003-2023 Abhishek Choudhary
 This file is part of the Romenagri Transliteration System.
 
 The Romenagri Transliteration System is free software; 
