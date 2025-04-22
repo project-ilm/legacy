@@ -1,4 +1,4 @@
-# Initial seeding of Project ILM from the Hindawi code.
+# Initial version of Project ILM from the Hindawi code.
 ## ILM will focus on Perso Arabic scripts, and interface with Hindawi using a Perso-Brahmi script bridge
 ## The same will apply for other script families ILM interfaces with
 
