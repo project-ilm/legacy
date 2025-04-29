@@ -1,3 +1,7 @@
+# Initial version of Project ILM from the Hindawi code.
+## ILM will focus on Perso Arabic scripts, and interface with Hindawi using a Perso-Brahmi script bridge
+## The same will apply for other script families ILM interfaces with
+
 # Hindawi 2023.12.21 (draft)
 Hindawi Programming System (Hindawi@Linux) 2020 version <br>
 Copyright (C) 2003-2023 Abhishek Choudhary <br>
